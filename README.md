@@ -155,10 +155,10 @@ GitHub:
 ## Live Demo
 
 Frontend:  
-[`(https://task-management-frontend.onrender.com)`]
+https://task-team-management-frontend.onrender.com/login
 
 Backend:  
-[`(https://task-team-management-0645.onrender.com)`]
+https://task-team-management-0645.onrender.com
 
 ---
 
