@@ -5,7 +5,7 @@ Users can register, login, and manage their daily tasks with a clean and respons
 
 ---
 
-## 🌟 Features
+## Features
 
 - User Registration & Login
 - JWT based Authentication
@@ -19,13 +19,14 @@ Users can register, login, and manage their daily tasks with a clean and respons
 - Responsive UI
 - Light/Dark Mode Theme
 - Toast Notifications & Metrics Breakdown Charts
-- MongoDB Database Integration & DNS Resolution Fix (`querySrv ECONNREFUSED`)
+- MongoDB Database Integration & DNS Resolution Fix (querySrv ECONNREFUSED)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔹 Frontend
+### Frontend
+
 - React.js (v19)
 - Vite
 - CSS
@@ -33,7 +34,8 @@ Users can register, login, and manage their daily tasks with a clean and respons
 - React Router (v7)
 - Redux Toolkit
 
-### 🔹 Backend
+### Backend
+
 - Node.js
 - Express.js
 - MongoDB
@@ -43,16 +45,16 @@ Users can register, login, and manage their daily tasks with a clean and respons
 
 ---
 
-## 🔑 Test Credentials (Pre-Seeded)
+## Test Credentials (Pre-Seeded)
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Standard User** | `testuser@example.com` | `Test@1234` |
-| **Admin User** | `admin@example.com` | `Admin@1234` |
+| Standard User | `testuser@example.com` | `Test@1234` |
+| Admin User | `admin@example.com` | `Admin@1234` |
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Task-Management-App
@@ -73,26 +75,31 @@ Task-Management-App
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Clone Repository
+
 ```bash
 git clone https://github.com/vinay6672/task-team-management.git
 cd task-team-management
 ```
 
 ### Backend Setup
+
 Go to server folder:
+
 ```bash
 cd server
 ```
 
 Install dependencies:
+
 ```bash
 npm install
 ```
 
 Create `.env` file:
+
 ```env
 PORT=5000
 MONGO_URI=mongodb+srv://patilvinay2025_db_user:patilvinay6672@cluster0.84rbhjs.mongodb.net/taskManagement?retryWrites=true&w=majority
@@ -101,27 +108,33 @@ JWT_EXPIRE=30d
 ```
 
 Seed initial database test accounts & tasks:
+
 ```bash
 npm run seed
 ```
 
 Run backend:
+
 ```bash
 npm run dev
 ```
 
 ### Frontend Setup
+
 Open another terminal:
+
 ```bash
 cd client
 ```
 
 Install dependencies:
+
 ```bash
 npm install
 ```
 
 Run frontend:
+
 ```bash
 npm run dev
 ```
@@ -130,26 +143,26 @@ Open browser at `http://localhost:5173`.
 
 ---
 
-## 👤 Author
+## Author
 
-**Vinay Patil**
+Vinay Patil
 
 GitHub:  
 [https://github.com/vinay6672](https://github.com/vinay6672)
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-**Frontend:**  
+Frontend:  
 `my url`
 
-**Backend:**  
+Backend:  
 `my url`
 
 ---
 
-## 📡 API Documentation
+## API Documentation
 
 Postman Collection:  
 `Task-Management-API.postman_collection.json`
