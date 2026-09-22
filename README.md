@@ -151,16 +151,11 @@ GitHub:
 [https://github.com/vinay6672](https://github.com/vinay6672)
 
 ---
+##  Live Demo
 
-## Live Demo
+ **Frontend:** [Open Live Application](https://task-team-management-frontend-git-main-a-e7f9.vercel.app)
 
-Frontend:  
-https://task-team-management-frontend.onrender.com/login
-
-Backend:  
-https://task-team-management-0645.onrender.com
-
----
+**Backend API:** [Backend API](https://task-team-management-0645.onrender.com)
 
 ## API Documentation
 
